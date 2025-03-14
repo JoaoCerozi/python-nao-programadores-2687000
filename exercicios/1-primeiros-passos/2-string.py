@@ -1,4 +1,4 @@
-resumo = "Paloma é uma mulher de 46 anos que deseja mudar de profissão, por isso está estudando 'python'."
+resumo =  "paloma é uma mulher de 46 anos que deseja mudar de profissão, por isso está estudando 'python'."
 
 # Imprima na tela a variável "resumo"
 
